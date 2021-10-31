@@ -1,0 +1,11 @@
+.transactionHistory {
+  box-shadow: var(--card-shadow);
+  text-align: center;
+  background-color: rgb(2, 2, 1);
+}
+.header {
+  background-color: rgb(89, 197, 211);
+}
+.headerItem {
+  padding: 10px;
+}

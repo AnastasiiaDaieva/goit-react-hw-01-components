@@ -1,0 +1,21 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  box-shadow: var(--basic-box-shadow);
+  padding: 10px;
+  align-items: center;
+}
+.status {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+.avatar {
+  width: 40px;
+  height: 40px;
+  margin-right: 30px;
+}

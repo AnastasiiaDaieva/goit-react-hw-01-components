@@ -1,0 +1,12 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 20px;
+  border: 1px solid #cacaca;
+  margin: 0;
+  padding: 10px 12.5px;
+}
+.label {
+  margin-bottom: 5px;
+}
